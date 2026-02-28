@@ -1,2 +1,3 @@
 .venv
 llm-service/.env
+__pycache__llm-service/.env
