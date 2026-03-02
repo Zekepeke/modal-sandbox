@@ -6,7 +6,7 @@ import subprocess
 
 model = modal.Cls.from_name("example-inference", "Model")
 
-ELEVENLABS_API_KEY = "ADD API KEY HERE"
+ELEVENLABS_API_KEY = "k_4acdb0d2336350b26651e99d8d0dde82ae4691bf61a54501"
 
 
 def record_audio(duration=5, sample_rate=16000) -> bytes:
